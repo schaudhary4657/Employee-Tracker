@@ -52,3 +52,8 @@ Bonus if you're able to:
 - You will need to perform a variety of SQL JOINS to complete this assignment, and it's recommended you review the week's activities if   you need a refresher on this.
 - You may wish to include a seed.sql file to pre-populate your database. This will make development of individual features much easier.
 - Focus on getting the basic functionality completed before working on more advanced features.
+
+
+# Demo Video
+
+![Demo](https://user-images.githubusercontent.com/51222558/82787004-76576a00-9e1a-11ea-9633-63a494609f4b.gif)
